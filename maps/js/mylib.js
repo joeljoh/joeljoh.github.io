@@ -578,7 +578,7 @@ var sngradient2 = svg.append("svg:defs")
     .attr("r", "50%");
 sngradient2.append("svg:stop")
     .attr("offset", "0%")
-    .attr("stop-color", "#9E0022")
+    .attr("stop-color", "##02baf2")
     .attr("stop-opacity", "1.0");
 sngradient2.append("svg:stop")
     .attr("offset", "100%")
