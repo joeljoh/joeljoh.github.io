@@ -643,7 +643,7 @@ psrgradient2.append("svg:stop")
 
 // the background image is pulled from www.eso.org/public/images/eso0932a/
 svg.append("image")
-	.attr("xlink:href", "img/eso0932a.jpg") 
+	.attr("xlink:href", "img/ESA_Gaia_DR2_AllSky_Brightness_Colour_Cartesian_2000x1000.png") 
 	.attr("width", width)
 	.attr("height", height);
 
