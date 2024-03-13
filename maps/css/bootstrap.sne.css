@@ -7010,11 +7010,13 @@ label {
 .dot {
   fill: url(#sngradient);
   stroke: #9E0022;
+  stroke-opacity: .05;
   stroke-width: 1.5px;
 }
 .activedot {
   fill: url(#sngradient2);
   stroke: #FFFFFF;
+  stroke-opacity: .05;
   stroke-width: 1.5px;
 }
 .pointer {
